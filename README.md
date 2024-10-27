@@ -32,7 +32,7 @@ T-SOL is a command-line tool that allows you to transfer the entire SOL balance 
 ## 📝 Usage
 
 1. Create a file named `private_key.txt` in the project root directory.
-2. Add the private keys of the Solana accounts you want to transfer from, **one per line**.
+2. Add the private keys **(only privatekey not pharse)** of the Solana accounts you want to transfer from, **one per line**.
 3. Run the script:
    ```
    node index.js
