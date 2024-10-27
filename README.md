@@ -9,7 +9,6 @@ T-SOL is a command-line tool that allows you to transfer the entire SOL balance 
 - 🧮 Calculate and account for transaction fees
 - 🚀 Automatic processing of all accounts without individual confirmations
 - 📊 Display transaction details and balances
-- 🔄 Loading spinner for network operations
 
 ## 🛠️ Prerequisites
 
